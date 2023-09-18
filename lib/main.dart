@@ -1,3 +1,8 @@
+/*Ike J. Angot: "At your very best, you still won't be good enough for the wrong person, 
+but at your worst, you'll still be good enough for the right one. - Tom Hardy*/
+
+// Kent Lorenz Daria :  "It's not a bug; it's an undocumented feature."
+
 import 'package:flutter/material.dart';
 
 void main() {
